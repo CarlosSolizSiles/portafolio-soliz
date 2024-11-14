@@ -21,23 +21,24 @@ const lista_proyectos = [
   },
   {
     titulo: "Arte fractal",
-    descripción: "",
+    descripción: "Generación de arte fractal utilizando algoritmos de procesamiento y Java.",
     imagen: "img/proyecto(4).jpg",
     archivo: "pdfs/proyecto(4).pdf",
   },
   {
-    titulo: "juego de ta-te-tí y paddle",
-    descripción: "",
+    titulo: "Juego de ta-te-tí y paddle",
+    descripción: "Desarrollo de un juego interactivo de ta-te-tí y paddle con gráficos generados por procesamiento y Java.",
     imagen: "img/proyecto(5).jpg",
     archivo: "pdfs/proyecto(5).pdf",
   },
   {
     titulo: "Laberinto",
-    descripción: "",
+    descripción: "Creación de un juego de laberinto con niveles de dificultad progresiva, implementado en procesamiento y Java.",
     imagen: "img/proyecto(6).jpg",
     archivo: "pdfs/proyecto(6).pdf",
   },
 ];
+
 
 const TEXTO_HTML = lista_proyectos.map(
   ({ titulo, descripción, imagen, archivo }) => {
