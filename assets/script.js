@@ -26,10 +26,16 @@ const lista_proyectos = [
     archivo: "pdfs/proyecto(4).pdf",
   },
   {
-    titulo: "juego de ta-te-tí y paddle en processing",
+    titulo: "juego de ta-te-tí y paddle",
     descripción: "",
     imagen: "img/proyecto(5).jpg",
     archivo: "pdfs/proyecto(5).pdf",
+  },
+  {
+    titulo: "Laberinto",
+    descripción: "",
+    imagen: "img/proyecto(6).jpg",
+    archivo: "pdfs/proyecto(6).pdf",
   },
 ];
 
